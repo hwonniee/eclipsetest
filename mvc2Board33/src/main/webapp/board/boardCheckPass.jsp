@@ -24,7 +24,7 @@
 				</tr>
 			</table>
 			<br>
-			<input type="submit" value=" 확 인 " onclick="return passCheck()">
+			<input type="submit" value=" 확인 " onclick="return passCheck()">
 			<br><br>${message }
 		</form>
 	</div>
